@@ -15,7 +15,7 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 03 | **Sliding Window** | 0 | ⚪ Backlog |
 | 04 | **Stack** | 0 | ⚪ Backlog |
 | 05 | **Binary Search** | 2 | 🟡 In Progress |
-| 06 | **Linked List** | 0 | ⚪ Backlog |
+| 06 | **Linked List** | 3 | 🟡 In Progress |
 | 07 | **Trees** | 0 | ⚪ Backlog |
 | 08 | **Tries** | 0 | ⚪ Backlog |
 | 09 | **Heap / Priority Queue** | 0 | ⚪ Backlog |
@@ -41,6 +41,9 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 4 | [Two Sum II - Input Array Is Sorted](02-two-pointers/two-sum-ii-input-array-is-sorted/) | Two Pointers | LeetCode 167 / NeetCode 150 | `Medium` | [solution.py](02-two-pointers/two-sum-ii-input-array-is-sorted/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 | 5 | [Binary Search](05-binary-search/binary-search/) | Binary Search | LeetCode 704 / NeetCode 150 | `Easy` | [solution.py](05-binary-search/binary-search/solution.py) | $\mathcal{O}(\log n)$ | $\mathcal{O}(1)$ |
 | 6 | [Koko Eating Bananas](05-binary-search/koko-eating-bananas/) | Binary Search (Answer Space) | LeetCode 875 / NeetCode 150 | `Medium` | [solution.py](05-binary-search/koko-eating-bananas/solution.py) | $\mathcal{O}(n \log m)$ | $\mathcal{O}(1)$ |
+| 7 | [Reverse Linked List](06-linked-list/reverse-linked-list/) | Linked List | LeetCode 206 / NeetCode 150 | `Easy` | [solution.py](06-linked-list/reverse-linked-list/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 8 | [Merge Two Sorted Lists](06-linked-list/merge-two-sorted-lists/) | Linked List | LeetCode 21 / NeetCode 150 | `Easy` | [solution.py](06-linked-list/merge-two-sorted-lists/solution.py) | $\mathcal{O}(n + m)$ | $\mathcal{O}(1)$ |
+| 9 | [Linked List Cycle](06-linked-list/linked-list-cycle/) | Linked List | LeetCode 141 / NeetCode 150 | `Easy` | [solution.py](06-linked-list/linked-list-cycle/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 
 ---
 
