@@ -10,10 +10,10 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 
 | # | Topic / Pattern | Solved | Status |
 |:---:|:---|:---:|:---:|
-| 01 | **Arrays & Hashing** | 3 | 🟡 In Progress |
+| 01 | **Arrays & Hashing** | 6 | 🟡 In Progress |
 | 02 | **Two Pointers** | 1 | 🟡 In Progress |
 | 03 | **Sliding Window** | 0 | ⚪ Backlog |
-| 04 | **Stack** | 0 | ⚪ Backlog |
+| 04 | **Stack** | 1 | 🟡 In Progress |
 | 05 | **Binary Search** | 2 | 🟡 In Progress |
 | 06 | **Linked List** | 3 | 🟡 In Progress |
 | 07 | **Trees** | 0 | ⚪ Backlog |
@@ -44,6 +44,10 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 7 | [Reverse Linked List](06-linked-list/reverse-linked-list/) | Linked List | LeetCode 206 / NeetCode 150 | `Easy` | [solution.py](06-linked-list/reverse-linked-list/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 | 8 | [Merge Two Sorted Lists](06-linked-list/merge-two-sorted-lists/) | Linked List | LeetCode 21 / NeetCode 150 | `Easy` | [solution.py](06-linked-list/merge-two-sorted-lists/solution.py) | $\mathcal{O}(n + m)$ | $\mathcal{O}(1)$ |
 | 9 | [Linked List Cycle](06-linked-list/linked-list-cycle/) | Linked List | LeetCode 141 / NeetCode 150 | `Easy` | [solution.py](06-linked-list/linked-list-cycle/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 10 | [Valid Parentheses](04-stack/valid-parentheses/) | Stack | LeetCode 20 / NeetCode 150 | `Easy` | [solution.py](04-stack/valid-parentheses/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 11 | [Top K Frequent Elements](01-arrays-and-hashing/top-k-frequent-elements/) | Arrays & Hashing | LeetCode 347 / NeetCode 150 | `Medium` | [solution.py](01-arrays-and-hashing/top-k-frequent-elements/solution.py) | $\mathcal{O}(n + m \log m)$ | $\mathcal{O}(m)$ |
+| 12 | [Encode and Decode Strings](01-arrays-and-hashing/encode-and-decode-strings/) | Arrays & Hashing | LeetCode 271 / NeetCode 150 | `Medium` | [solution.py](01-arrays-and-hashing/encode-and-decode-strings/solution.py) | $\mathcal{O}(N)$ | $\mathcal{O}(N)$ |
+| 13 | [Product of Array Except Self](01-arrays-and-hashing/product-of-array-except-self/) | Arrays & Hashing | LeetCode 238 / NeetCode 150 | `Medium` | [solution.py](01-arrays-and-hashing/product-of-array-except-self/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 
 ---
 
