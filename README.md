@@ -12,15 +12,15 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 |:---:|:---|:---:|:---:|
 | 01 | **Arrays & Hashing** | 6 | 🟡 In Progress |
 | 02 | **Two Pointers** | 1 | 🟡 In Progress |
-| 03 | **Sliding Window** | 0 | ⚪ Backlog |
+| 03 | **Sliding Window** | 3 | 🟡 In Progress |
 | 04 | **Stack** | 1 | 🟡 In Progress |
 | 05 | **Binary Search** | 2 | 🟡 In Progress |
 | 06 | **Linked List** | 3 | 🟡 In Progress |
 | 07 | **Trees** | 0 | ⚪ Backlog |
 | 08 | **Tries** | 0 | ⚪ Backlog |
-| 09 | **Heap / Priority Queue** | 0 | ⚪ Backlog |
+| 09 | **Heap / Priority Queue** | 1 | 🟡 In Progress |
 | 10 | **Backtracking** | 0 | ⚪ Backlog |
-| 11 | **Graphs** | 0 | ⚪ Backlog |
+| 11 | **Graphs** | 1 | 🟡 In Progress |
 | 12 | **Advanced Graphs** | 0 | ⚪ Backlog |
 | 13 | **1-D Dynamic Programming** | 0 | ⚪ Backlog |
 | 14 | **2-D Dynamic Programming** | 0 | ⚪ Backlog |
@@ -48,6 +48,11 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 11 | [Top K Frequent Elements](01-arrays-and-hashing/top-k-frequent-elements/) | Arrays & Hashing | LeetCode 347 / NeetCode 150 | `Medium` | [solution.py](01-arrays-and-hashing/top-k-frequent-elements/solution.py) | $\mathcal{O}(n + m \log m)$ | $\mathcal{O}(m)$ |
 | 12 | [Encode and Decode Strings](01-arrays-and-hashing/encode-and-decode-strings/) | Arrays & Hashing | LeetCode 271 / NeetCode 150 | `Medium` | [solution.py](01-arrays-and-hashing/encode-and-decode-strings/solution.py) | $\mathcal{O}(N)$ | $\mathcal{O}(N)$ |
 | 13 | [Product of Array Except Self](01-arrays-and-hashing/product-of-array-except-self/) | Arrays & Hashing | LeetCode 238 / NeetCode 150 | `Medium` | [solution.py](01-arrays-and-hashing/product-of-array-except-self/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 14 | [K Closest Points to Origin](09-heap-priority-queue/k-closest-points-to-origin/) | Heap / Priority Queue | LeetCode 973 / NeetCode 150 | `Medium` | [solution.py](09-heap-priority-queue/k-closest-points-to-origin/solution.py) | $\mathcal{O}(n \log k)$ | $\mathcal{O}(k)$ |
+| 15 | [Best Time to Buy and Sell Stock](03-sliding-window/best-time-to-buy-and-sell-stock/) | Sliding Window | LeetCode 121 / NeetCode 150 | `Easy` | [solution.py](03-sliding-window/best-time-to-buy-and-sell-stock/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 16 | [Longest Substring Without Repeating Characters](03-sliding-window/longest-substring-without-repeating-characters/) | Sliding Window | LeetCode 3 / NeetCode 150 | `Medium` | [solution.py](03-sliding-window/longest-substring-without-repeating-characters/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(m)$ |
+| 17 | [Sliding Window Maximum](03-sliding-window/sliding-window-maximum/) | Sliding Window | LeetCode 239 / NeetCode 150 | `Hard` | [solution.py](03-sliding-window/sliding-window-maximum/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(k)$ |
+| 18 | [Number of Connected Components in an Undirected Graph](11-graphs/number-of-connected-components-in-an-undirected-graph/) | Graphs | LeetCode 323 / NeetCode 150 | `Medium` | [solution.py](11-graphs/number-of-connected-components-in-an-undirected-graph/solution.py) | $\mathcal{O}(V + E)$ | $\mathcal{O}(V + E)$ |
 
 ---
 
