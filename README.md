@@ -10,19 +10,19 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 
 | # | Topic / Pattern | Solved | Status |
 |:---:|:---|:---:|:---:|
-| 01 | **Arrays & Hashing** | 6 | 🟡 In Progress |
+| 01 | **Arrays & Hashing** | 7 | 🟡 In Progress |
 | 02 | **Two Pointers** | 1 | 🟡 In Progress |
 | 03 | **Sliding Window** | 3 | 🟡 In Progress |
 | 04 | **Stack** | 1 | 🟡 In Progress |
 | 05 | **Binary Search** | 2 | 🟡 In Progress |
-| 06 | **Linked List** | 3 | 🟡 In Progress |
+| 06 | **Linked List** | 4 | 🟡 In Progress |
 | 07 | **Trees** | 0 | ⚪ Backlog |
 | 08 | **Tries** | 0 | ⚪ Backlog |
-| 09 | **Heap / Priority Queue** | 1 | 🟡 In Progress |
+| 09 | **Heap / Priority Queue** | 2 | 🟡 In Progress |
 | 10 | **Backtracking** | 0 | ⚪ Backlog |
 | 11 | **Graphs** | 1 | 🟡 In Progress |
-| 12 | **Advanced Graphs** | 0 | ⚪ Backlog |
-| 13 | **1-D Dynamic Programming** | 0 | ⚪ Backlog |
+| 12 | **Advanced Graphs** | 1 | 🟡 In Progress |
+| 13 | **1-D Dynamic Programming** | 1 | 🟡 In Progress |
 | 14 | **2-D Dynamic Programming** | 0 | ⚪ Backlog |
 | 15 | **Greedy** | 0 | ⚪ Backlog |
 | 16 | **Intervals** | 0 | ⚪ Backlog |
@@ -53,6 +53,11 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 16 | [Longest Substring Without Repeating Characters](03-sliding-window/longest-substring-without-repeating-characters/) | Sliding Window | LeetCode 3 / NeetCode 150 | `Medium` | [solution.py](03-sliding-window/longest-substring-without-repeating-characters/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(m)$ |
 | 17 | [Sliding Window Maximum](03-sliding-window/sliding-window-maximum/) | Sliding Window | LeetCode 239 / NeetCode 150 | `Hard` | [solution.py](03-sliding-window/sliding-window-maximum/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(k)$ |
 | 18 | [Number of Connected Components in an Undirected Graph](11-graphs/number-of-connected-components-in-an-undirected-graph/) | Graphs | LeetCode 323 / NeetCode 150 | `Medium` | [solution.py](11-graphs/number-of-connected-components-in-an-undirected-graph/solution.py) | $\mathcal{O}(V + E)$ | $\mathcal{O}(V + E)$ |
+| 19 | [Two Sum](01-arrays-and-hashing/two-sum/) | Arrays & Hashing | LeetCode 1 / NeetCode 150 | `Easy` | [solution.py](01-arrays-and-hashing/two-sum/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 20 | [Reorder List](06-linked-list/reorder-list/) | Linked List | LeetCode 143 / NeetCode 150 | `Medium` | [solution.py](06-linked-list/reorder-list/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 21 | [Maximum Product Subarray](13-1-d-dynamic-programming/maximum-product-subarray/) | 1-D Dynamic Programming | LeetCode 152 / NeetCode 150 | `Medium` | [solution.py](13-1-d-dynamic-programming/maximum-product-subarray/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 22 | [Design Twitter](09-heap-priority-queue/design-twitter/) | Heap / Priority Queue | LeetCode 355 / NeetCode 150 | `Medium` | [solution.py](09-heap-priority-queue/design-twitter/solution.py) | $\mathcal{O}(T \log 10)$ | $\mathcal{O}(U + T_{\text{all}} + R)$ |
+| 23 | [Cheapest Flights Within K Stops](12-advanced-graphs/cheapest-flights-within-k-stops/) | Advanced Graphs | LeetCode 787 / NeetCode 150 | `Medium` | [solution.py](12-advanced-graphs/cheapest-flights-within-k-stops/solution.py) | $\mathcal{O}(k \cdot E)$ | $\mathcal{O}(V + E)$ |
 
 ---
 
