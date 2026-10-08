@@ -11,7 +11,7 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | # | Topic / Pattern | Solved | Status |
 |:---:|:---|:---:|:---:|
 | 01 | **Arrays & Hashing** | 7 | 🟡 In Progress |
-| 02 | **Two Pointers** | 1 | 🟡 In Progress |
+| 02 | **Two Pointers** | 2 | 🟡 In Progress |
 | 03 | **Sliding Window** | 3 | 🟡 In Progress |
 | 04 | **Stack** | 1 | 🟡 In Progress |
 | 05 | **Binary Search** | 2 | 🟡 In Progress |
@@ -26,7 +26,7 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 14 | **2-D Dynamic Programming** | 0 | ⚪ Backlog |
 | 15 | **Greedy** | 0 | ⚪ Backlog |
 | 16 | **Intervals** | 0 | ⚪ Backlog |
-| 17 | **Math & Geometry** | 0 | ⚪ Backlog |
+| 17 | **Math & Geometry** | 1 | 🟡 In Progress |
 | 18 | **Bit Manipulation** | 0 | ⚪ Backlog |
 
 ---
@@ -58,6 +58,8 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 21 | [Maximum Product Subarray](13-1-d-dynamic-programming/maximum-product-subarray/) | 1-D Dynamic Programming | LeetCode 152 / NeetCode 150 | `Medium` | [solution.py](13-1-d-dynamic-programming/maximum-product-subarray/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 | 22 | [Design Twitter](09-heap-priority-queue/design-twitter/) | Heap / Priority Queue | LeetCode 355 / NeetCode 150 | `Medium` | [solution.py](09-heap-priority-queue/design-twitter/solution.py) | $\mathcal{O}(T \log 10)$ | $\mathcal{O}(U + T_{\text{all}} + R)$ |
 | 23 | [Cheapest Flights Within K Stops](12-advanced-graphs/cheapest-flights-within-k-stops/) | Advanced Graphs | LeetCode 787 / NeetCode 150 | `Medium` | [solution.py](12-advanced-graphs/cheapest-flights-within-k-stops/solution.py) | $\mathcal{O}(k \cdot E)$ | $\mathcal{O}(V + E)$ |
+| 24 | [Valid Palindrome](02-two-pointers/valid-palindrome/) | Two Pointers | LeetCode 125 / NeetCode 150 | `Easy` | [solution.py](02-two-pointers/valid-palindrome/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 25 | [Happy Number](17-math-and-geometry/happy-number/) | Math & Geometry | LeetCode 202 / NeetCode 150 | `Easy` | [solution.py](17-math-and-geometry/happy-number/solution.py) | $\mathcal{O}(\log n)$ | $\mathcal{O}(\log n)$ |
 
 ---
 
