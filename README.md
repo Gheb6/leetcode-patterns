@@ -16,14 +16,14 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 04 | **Stack** | 1 | 🟡 In Progress |
 | 05 | **Binary Search** | 2 | 🟡 In Progress |
 | 06 | **Linked List** | 4 | 🟡 In Progress |
-| 07 | **Trees** | 0 | ⚪ Backlog |
+| 07 | **Trees** | 2 | 🟡 In Progress |
 | 08 | **Tries** | 0 | ⚪ Backlog |
-| 09 | **Heap / Priority Queue** | 2 | 🟡 In Progress |
-| 10 | **Backtracking** | 0 | ⚪ Backlog |
+| 09 | **Heap / Priority Queue** | 4 | 🟡 In Progress |
+| 10 | **Backtracking** | 1 | 🟡 In Progress |
 | 11 | **Graphs** | 1 | 🟡 In Progress |
 | 12 | **Advanced Graphs** | 1 | 🟡 In Progress |
 | 13 | **1-D Dynamic Programming** | 1 | 🟡 In Progress |
-| 14 | **2-D Dynamic Programming** | 0 | ⚪ Backlog |
+| 14 | **2-D Dynamic Programming** | 1 | 🟡 In Progress |
 | 15 | **Greedy** | 0 | ⚪ Backlog |
 | 16 | **Intervals** | 0 | ⚪ Backlog |
 | 17 | **Math & Geometry** | 1 | 🟡 In Progress |
@@ -60,6 +60,12 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 23 | [Cheapest Flights Within K Stops](12-advanced-graphs/cheapest-flights-within-k-stops/) | Advanced Graphs | LeetCode 787 / NeetCode 150 | `Medium` | [solution.py](12-advanced-graphs/cheapest-flights-within-k-stops/solution.py) | $\mathcal{O}(k \cdot E)$ | $\mathcal{O}(V + E)$ |
 | 24 | [Valid Palindrome](02-two-pointers/valid-palindrome/) | Two Pointers | LeetCode 125 / NeetCode 150 | `Easy` | [solution.py](02-two-pointers/valid-palindrome/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 | 25 | [Happy Number](17-math-and-geometry/happy-number/) | Math & Geometry | LeetCode 202 / NeetCode 150 | `Easy` | [solution.py](17-math-and-geometry/happy-number/solution.py) | $\mathcal{O}(\log n)$ | $\mathcal{O}(\log n)$ |
+| 26 | [Invert Binary Tree](07-trees/invert-binary-tree/) | Trees | LeetCode 226 / NeetCode 150 | `Easy` | [solution.py](07-trees/invert-binary-tree/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(h)$ |
+| 27 | [Find Median from Data Stream](09-heap-priority-queue/find-median-from-data-stream/) | Heap / Priority Queue | LeetCode 295 / NeetCode 150 | `Hard` | [solution.py](09-heap-priority-queue/find-median-from-data-stream/solution.py) | $\mathcal{O}(\log n)$ / $\mathcal{O}(1)$ | $\mathcal{O}(n)$ |
+| 28 | [Distinct Subsequences](14-2-d-dynamic-programming/distinct-subsequences/) | 2-D Dynamic Programming | LeetCode 115 / NeetCode 150 | `Hard` | [solution.py](14-2-d-dynamic-programming/distinct-subsequences/solution.py) | $\mathcal{O}(m \cdot n)$ | $\mathcal{O}(m \cdot n)$ |
+| 29 | [Subsets II](10-backtracking/subsets-ii/) | Backtracking | LeetCode 90 / NeetCode 150 | `Medium` | [solution.py](10-backtracking/subsets-ii/solution.py) | $\mathcal{O}(n \cdot 2^n)$ | $\mathcal{O}(n \cdot 2^n)$ |
+| 30 | [Construct Binary Tree from Preorder and Inorder Traversal](07-trees/construct-binary-tree-from-preorder-and-inorder-traversal/) | Trees | LeetCode 105 / NeetCode 150 | `Medium` | [solution.py](07-trees/construct-binary-tree-from-preorder-and-inorder-traversal/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 31 | [Kth Largest Element in a Stream](09-heap-priority-queue/kth-largest-element-in-a-stream/) | Heap / Priority Queue | LeetCode 703 / NeetCode 150 | `Easy` | [solution.py](09-heap-priority-queue/kth-largest-element-in-a-stream/solution.py) | $\mathcal{O}(\log k)$ | $\mathcal{O}(k)$ |
 
 ---
 
