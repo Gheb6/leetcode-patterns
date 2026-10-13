@@ -14,11 +14,11 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 02 | **Two Pointers** | 2 | 🟡 In Progress |
 | 03 | **Sliding Window** | 3 | 🟡 In Progress |
 | 04 | **Stack** | 1 | 🟡 In Progress |
-| 05 | **Binary Search** | 2 | 🟡 In Progress |
-| 06 | **Linked List** | 4 | 🟡 In Progress |
+| 05 | **Binary Search** | 4 | 🟡 In Progress |
+| 06 | **Linked List** | 5 | 🟡 In Progress |
 | 07 | **Trees** | 2 | 🟡 In Progress |
 | 08 | **Tries** | 0 | ⚪ Backlog |
-| 09 | **Heap / Priority Queue** | 4 | 🟡 In Progress |
+| 09 | **Heap / Priority Queue** | 5 | 🟡 In Progress |
 | 10 | **Backtracking** | 1 | 🟡 In Progress |
 | 11 | **Graphs** | 1 | 🟡 In Progress |
 | 12 | **Advanced Graphs** | 1 | 🟡 In Progress |
@@ -66,6 +66,10 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 29 | [Subsets II](10-backtracking/subsets-ii/) | Backtracking | LeetCode 90 / NeetCode 150 | `Medium` | [solution.py](10-backtracking/subsets-ii/solution.py) | $\mathcal{O}(n \cdot 2^n)$ | $\mathcal{O}(n \cdot 2^n)$ |
 | 30 | [Construct Binary Tree from Preorder and Inorder Traversal](07-trees/construct-binary-tree-from-preorder-and-inorder-traversal/) | Trees | LeetCode 105 / NeetCode 150 | `Medium` | [solution.py](07-trees/construct-binary-tree-from-preorder-and-inorder-traversal/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
 | 31 | [Kth Largest Element in a Stream](09-heap-priority-queue/kth-largest-element-in-a-stream/) | Heap / Priority Queue | LeetCode 703 / NeetCode 150 | `Easy` | [solution.py](09-heap-priority-queue/kth-largest-element-in-a-stream/solution.py) | $\mathcal{O}(\log k)$ | $\mathcal{O}(k)$ |
+| 32 | [Search a 2D Matrix](05-binary-search/search-a-2d-matrix/) | Binary Search | LeetCode 74 / NeetCode 150 | `Medium` | [solution.py](05-binary-search/search-a-2d-matrix/solution.py) | $\mathcal{O}(\log(m \cdot n))$ | $\mathcal{O}(1)$ |
+| 33 | [Time Based Key-Value Store](05-binary-search/time-based-key-value-store/) | Binary Search | LeetCode 981 / NeetCode 150 | `Medium` | [solution.py](05-binary-search/time-based-key-value-store/solution.py) | $\mathcal{O}(1)$ / $\mathcal{O}(\log n)$ | $\mathcal{O}(N)$ |
+| 34 | [LRU Cache](06-linked-list/lru-cache/) | Linked List | LeetCode 146 / NeetCode 150 | `Medium` | [solution.py](06-linked-list/lru-cache/solution.py) | $\mathcal{O}(1)$ | $\mathcal{O}(\text{capacity})$ |
+| 35 | [Task Scheduler](09-heap-priority-queue/task-scheduler/) | Heap / Priority Queue | LeetCode 621 / NeetCode 150 | `Medium` | [solution.py](09-heap-priority-queue/task-scheduler/solution.py) | $\mathcal{O}(m)$ | $\mathcal{O}(1)$ |
 
 ---
 
