@@ -10,17 +10,17 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 
 | # | Topic / Pattern | Solved | Status |
 |:---:|:---|:---:|:---:|
-| 01 | **Arrays & Hashing** | 7 | 🟡 In Progress |
+| 01 | **Arrays & Hashing** | 8 | 🟡 In Progress |
 | 02 | **Two Pointers** | 2 | 🟡 In Progress |
-| 03 | **Sliding Window** | 3 | 🟡 In Progress |
-| 04 | **Stack** | 1 | 🟡 In Progress |
+| 03 | **Sliding Window** | 4 | 🟡 In Progress |
+| 04 | **Stack** | 2 | 🟡 In Progress |
 | 05 | **Binary Search** | 4 | 🟡 In Progress |
 | 06 | **Linked List** | 5 | 🟡 In Progress |
 | 07 | **Trees** | 2 | 🟡 In Progress |
 | 08 | **Tries** | 0 | ⚪ Backlog |
 | 09 | **Heap / Priority Queue** | 5 | 🟡 In Progress |
 | 10 | **Backtracking** | 1 | 🟡 In Progress |
-| 11 | **Graphs** | 1 | 🟡 In Progress |
+| 11 | **Graphs** | 2 | 🟡 In Progress |
 | 12 | **Advanced Graphs** | 1 | 🟡 In Progress |
 | 13 | **1-D Dynamic Programming** | 1 | 🟡 In Progress |
 | 14 | **2-D Dynamic Programming** | 1 | 🟡 In Progress |
@@ -70,6 +70,10 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 33 | [Time Based Key-Value Store](05-binary-search/time-based-key-value-store/) | Binary Search | LeetCode 981 / NeetCode 150 | `Medium` | [solution.py](05-binary-search/time-based-key-value-store/solution.py) | $\mathcal{O}(1)$ / $\mathcal{O}(\log n)$ | $\mathcal{O}(N)$ |
 | 34 | [LRU Cache](06-linked-list/lru-cache/) | Linked List | LeetCode 146 / NeetCode 150 | `Medium` | [solution.py](06-linked-list/lru-cache/solution.py) | $\mathcal{O}(1)$ | $\mathcal{O}(\text{capacity})$ |
 | 35 | [Task Scheduler](09-heap-priority-queue/task-scheduler/) | Heap / Priority Queue | LeetCode 621 / NeetCode 150 | `Medium` | [solution.py](09-heap-priority-queue/task-scheduler/solution.py) | $\mathcal{O}(m)$ | $\mathcal{O}(1)$ |
+| 36 | [Minimum Window Substring](03-sliding-window/minimum-window-substring/) | Sliding Window | LeetCode 76 / NeetCode 150 | `Hard` | [solution.py](03-sliding-window/minimum-window-substring/solution.py) | $\mathcal{O}(m + n)$ | $\mathcal{O}(m + n)$ |
+| 37 | [Min Stack](04-stack/min-stack/) | Stack | LeetCode 155 / NeetCode 150 | `Medium` | [solution.py](04-stack/min-stack/solution.py) | $\mathcal{O}(1)$ | $\mathcal{O}(n)$ |
+| 38 | [Islands and Treasure](11-graphs/islands-and-treasure/) | Graphs | LeetCode 286 / NeetCode 150 | `Medium` | [solution.py](11-graphs/islands-and-treasure/solution.py) | $\mathcal{O}(m \cdot n)$ | $\mathcal{O}(m \cdot n)$ |
+| 39 | [Valid Sudoku](01-arrays-and-hashing/valid-sudoku/) | Arrays & Hashing | LeetCode 36 / NeetCode 150 | `Medium` | [solution.py](01-arrays-and-hashing/valid-sudoku/solution.py) | $\mathcal{O}(1)$ | $\mathcal{O}(1)$ |
 
 ---
 
