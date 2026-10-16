@@ -10,10 +10,10 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 
 | # | Topic / Pattern | Solved | Status |
 |:---:|:---|:---:|:---:|
-| 01 | **Arrays & Hashing** | 8 | 🟡 In Progress |
+| 01 | **Arrays & Hashing** | 9 | 🟡 In Progress |
 | 02 | **Two Pointers** | 2 | 🟡 In Progress |
 | 03 | **Sliding Window** | 4 | 🟡 In Progress |
-| 04 | **Stack** | 2 | 🟡 In Progress |
+| 04 | **Stack** | 3 | 🟡 In Progress |
 | 05 | **Binary Search** | 4 | 🟡 In Progress |
 | 06 | **Linked List** | 5 | 🟡 In Progress |
 | 07 | **Trees** | 2 | 🟡 In Progress |
@@ -25,7 +25,7 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 13 | **1-D Dynamic Programming** | 1 | 🟡 In Progress |
 | 14 | **2-D Dynamic Programming** | 1 | 🟡 In Progress |
 | 15 | **Greedy** | 0 | ⚪ Backlog |
-| 16 | **Intervals** | 0 | ⚪ Backlog |
+| 16 | **Intervals** | 3 | 🟡 In Progress |
 | 17 | **Math & Geometry** | 1 | 🟡 In Progress |
 | 18 | **Bit Manipulation** | 0 | ⚪ Backlog |
 
@@ -74,6 +74,11 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 37 | [Min Stack](04-stack/min-stack/) | Stack | LeetCode 155 / NeetCode 150 | `Medium` | [solution.py](04-stack/min-stack/solution.py) | $\mathcal{O}(1)$ | $\mathcal{O}(n)$ |
 | 38 | [Islands and Treasure](11-graphs/islands-and-treasure/) | Graphs | LeetCode 286 / NeetCode 150 | `Medium` | [solution.py](11-graphs/islands-and-treasure/solution.py) | $\mathcal{O}(m \cdot n)$ | $\mathcal{O}(m \cdot n)$ |
 | 39 | [Valid Sudoku](01-arrays-and-hashing/valid-sudoku/) | Arrays & Hashing | LeetCode 36 / NeetCode 150 | `Medium` | [solution.py](01-arrays-and-hashing/valid-sudoku/solution.py) | $\mathcal{O}(1)$ | $\mathcal{O}(1)$ |
+| 40 | [Evaluate Reverse Polish Notation](04-stack/evaluate-reverse-polish-notation/) | Stack | LeetCode 150 / NeetCode 150 | `Medium` | [solution.py](04-stack/evaluate-reverse-polish-notation/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 41 | [Insert Interval](16-intervals/insert-interval/) | Intervals | LeetCode 57 / NeetCode 150 | `Medium` | [solution.py](16-intervals/insert-interval/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 42 | [Merge Intervals](16-intervals/merge-intervals/) | Intervals | LeetCode 56 / NeetCode 150 | `Medium` | [solution.py](16-intervals/merge-intervals/solution.py) | $\mathcal{O}(n \log n)$ | $\mathcal{O}(n)$ |
+| 43 | [Non-overlapping Intervals](16-intervals/non-overlapping-intervals/) | Intervals | LeetCode 435 / NeetCode 150 | `Medium` | [solution.py](16-intervals/non-overlapping-intervals/solution.py) | $\mathcal{O}(n \log n)$ | $\mathcal{O}(1)$ |
+| 44 | [Longest Consecutive Sequence](01-arrays-and-hashing/longest-consecutive-sequence/) | Arrays & Hashing | LeetCode 128 / NeetCode 150 | `Medium` | [solution.py](01-arrays-and-hashing/longest-consecutive-sequence/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
 
 ---
 
