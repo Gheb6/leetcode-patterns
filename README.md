@@ -11,9 +11,9 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | # | Topic / Pattern | Solved | Status |
 |:---:|:---|:---:|:---:|
 | 01 | **Arrays & Hashing** | 9 | 🟡 In Progress |
-| 02 | **Two Pointers** | 2 | 🟡 In Progress |
+| 02 | **Two Pointers** | 4 | 🟡 In Progress |
 | 03 | **Sliding Window** | 4 | 🟡 In Progress |
-| 04 | **Stack** | 3 | 🟡 In Progress |
+| 04 | **Stack** | 4 | 🟡 In Progress |
 | 05 | **Binary Search** | 4 | 🟡 In Progress |
 | 06 | **Linked List** | 5 | 🟡 In Progress |
 | 07 | **Trees** | 2 | 🟡 In Progress |
@@ -79,6 +79,9 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 42 | [Merge Intervals](16-intervals/merge-intervals/) | Intervals | LeetCode 56 / NeetCode 150 | `Medium` | [solution.py](16-intervals/merge-intervals/solution.py) | $\mathcal{O}(n \log n)$ | $\mathcal{O}(n)$ |
 | 43 | [Non-overlapping Intervals](16-intervals/non-overlapping-intervals/) | Intervals | LeetCode 435 / NeetCode 150 | `Medium` | [solution.py](16-intervals/non-overlapping-intervals/solution.py) | $\mathcal{O}(n \log n)$ | $\mathcal{O}(1)$ |
 | 44 | [Longest Consecutive Sequence](01-arrays-and-hashing/longest-consecutive-sequence/) | Arrays & Hashing | LeetCode 128 / NeetCode 150 | `Medium` | [solution.py](01-arrays-and-hashing/longest-consecutive-sequence/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 45 | [3Sum](02-two-pointers/3sum/) | Two Pointers | LeetCode 15 / NeetCode 150 | `Medium` | [solution.py](02-two-pointers/3sum/solution.py) | $\mathcal{O}(n^2)$ | $\mathcal{O}(1)$ / $\mathcal{O}(n)$ |
+| 46 | [Daily Temperatures](04-stack/daily-temperatures/) | Stack | LeetCode 739 / NeetCode 150 | `Medium` | [solution.py](04-stack/daily-temperatures/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 47 | [Container With Most Water](02-two-pointers/container-with-most-water/) | Two Pointers | LeetCode 11 / NeetCode 150 | `Medium` | [solution.py](02-two-pointers/container-with-most-water/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 
 ---
 
