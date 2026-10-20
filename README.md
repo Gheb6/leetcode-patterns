@@ -11,9 +11,9 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | # | Topic / Pattern | Solved | Status |
 |:---:|:---|:---:|:---:|
 | 01 | **Arrays & Hashing** | 9 | 🟡 In Progress |
-| 02 | **Two Pointers** | 4 | 🟡 In Progress |
+| 02 | **Two Pointers** | 5 | 🟡 In Progress |
 | 03 | **Sliding Window** | 4 | 🟡 In Progress |
-| 04 | **Stack** | 4 | 🟡 In Progress |
+| 04 | **Stack** | 6 | 🟡 In Progress |
 | 05 | **Binary Search** | 4 | 🟡 In Progress |
 | 06 | **Linked List** | 5 | 🟡 In Progress |
 | 07 | **Trees** | 2 | 🟡 In Progress |
@@ -82,6 +82,9 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 45 | [3Sum](02-two-pointers/3sum/) | Two Pointers | LeetCode 15 / NeetCode 150 | `Medium` | [solution.py](02-two-pointers/3sum/solution.py) | $\mathcal{O}(n^2)$ | $\mathcal{O}(1)$ / $\mathcal{O}(n)$ |
 | 46 | [Daily Temperatures](04-stack/daily-temperatures/) | Stack | LeetCode 739 / NeetCode 150 | `Medium` | [solution.py](04-stack/daily-temperatures/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
 | 47 | [Container With Most Water](02-two-pointers/container-with-most-water/) | Two Pointers | LeetCode 11 / NeetCode 150 | `Medium` | [solution.py](02-two-pointers/container-with-most-water/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 48 | [Trapping Rain Water](02-two-pointers/trapping-rain-water/) | Two Pointers | LeetCode 42 / NeetCode 150 | `Hard` | [solution.py](02-two-pointers/trapping-rain-water/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 49 | [Car Fleet](04-stack/car-fleet/) | Stack | LeetCode 853 / NeetCode 150 | `Medium` | [solution.py](04-stack/car-fleet/solution.py) | $\mathcal{O}(n \log n)$ | $\mathcal{O}(n)$ |
+| 50 | [Largest Rectangle in Histogram](04-stack/largest-rectangle-in-histogram/) | Stack | LeetCode 84 / NeetCode 150 | `Hard` | [solution.py](04-stack/largest-rectangle-in-histogram/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
 
 ---
 
