@@ -15,7 +15,7 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 03 | **Sliding Window** | 4 | 🟡 In Progress |
 | 04 | **Stack** | 6 | 🟡 In Progress |
 | 05 | **Binary Search** | 4 | 🟡 In Progress |
-| 06 | **Linked List** | 5 | 🟡 In Progress |
+| 06 | **Linked List** | 8 | 🟡 In Progress |
 | 07 | **Trees** | 2 | 🟡 In Progress |
 | 08 | **Tries** | 0 | ⚪ Backlog |
 | 09 | **Heap / Priority Queue** | 5 | 🟡 In Progress |
@@ -85,6 +85,9 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 48 | [Trapping Rain Water](02-two-pointers/trapping-rain-water/) | Two Pointers | LeetCode 42 / NeetCode 150 | `Hard` | [solution.py](02-two-pointers/trapping-rain-water/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 | 49 | [Car Fleet](04-stack/car-fleet/) | Stack | LeetCode 853 / NeetCode 150 | `Medium` | [solution.py](04-stack/car-fleet/solution.py) | $\mathcal{O}(n \log n)$ | $\mathcal{O}(n)$ |
 | 50 | [Largest Rectangle in Histogram](04-stack/largest-rectangle-in-histogram/) | Stack | LeetCode 84 / NeetCode 150 | `Hard` | [solution.py](04-stack/largest-rectangle-in-histogram/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 51 | [Remove Nth Node From End of List](06-linked-list/remove-nth-node-from-end-of-list/) | Linked List | LeetCode 19 / NeetCode 150 | `Medium` | [solution.py](06-linked-list/remove-nth-node-from-end-of-list/solution.py) | $\mathcal{O}(L)$ | $\mathcal{O}(1)$ |
+| 52 | [Copy List with Random Pointer](06-linked-list/copy-list-with-random-pointer/) | Linked List | LeetCode 138 / NeetCode 150 | `Medium` | [solution.py](06-linked-list/copy-list-with-random-pointer/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 53 | [Add Two Numbers](06-linked-list/add-two-numbers/) | Linked List | LeetCode 2 / NeetCode 150 | `Medium` | [solution.py](06-linked-list/add-two-numbers/solution.py) | $\mathcal{O}(\max(m, n))$ | $\mathcal{O}(\max(m, n))$ |
 
 ---
 
