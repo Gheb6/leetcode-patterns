@@ -12,17 +12,17 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 |:---:|:---|:---:|:---:|
 | 01 | **Arrays & Hashing** | 9 | 🟡 In Progress |
 | 02 | **Two Pointers** | 5 | 🟡 In Progress |
-| 03 | **Sliding Window** | 4 | 🟡 In Progress |
+| 03 | **Sliding Window** | 5 | 🟡 In Progress |
 | 04 | **Stack** | 6 | 🟡 In Progress |
-| 05 | **Binary Search** | 4 | 🟡 In Progress |
+| 05 | **Binary Search** | 5 | 🟡 In Progress |
 | 06 | **Linked List** | 8 | 🟡 In Progress |
 | 07 | **Trees** | 2 | 🟡 In Progress |
 | 08 | **Tries** | 0 | ⚪ Backlog |
 | 09 | **Heap / Priority Queue** | 5 | 🟡 In Progress |
 | 10 | **Backtracking** | 1 | 🟡 In Progress |
-| 11 | **Graphs** | 2 | 🟡 In Progress |
+| 11 | **Graphs** | 5 | 🟡 In Progress |
 | 12 | **Advanced Graphs** | 1 | 🟡 In Progress |
-| 13 | **1-D Dynamic Programming** | 1 | 🟡 In Progress |
+| 13 | **1-D Dynamic Programming** | 4 | 🟡 In Progress |
 | 14 | **2-D Dynamic Programming** | 1 | 🟡 In Progress |
 | 15 | **Greedy** | 0 | ⚪ Backlog |
 | 16 | **Intervals** | 3 | 🟡 In Progress |
@@ -88,6 +88,14 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 51 | [Remove Nth Node From End of List](06-linked-list/remove-nth-node-from-end-of-list/) | Linked List | LeetCode 19 / NeetCode 150 | `Medium` | [solution.py](06-linked-list/remove-nth-node-from-end-of-list/solution.py) | $\mathcal{O}(L)$ | $\mathcal{O}(1)$ |
 | 52 | [Copy List with Random Pointer](06-linked-list/copy-list-with-random-pointer/) | Linked List | LeetCode 138 / NeetCode 150 | `Medium` | [solution.py](06-linked-list/copy-list-with-random-pointer/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
 | 53 | [Add Two Numbers](06-linked-list/add-two-numbers/) | Linked List | LeetCode 2 / NeetCode 150 | `Medium` | [solution.py](06-linked-list/add-two-numbers/solution.py) | $\mathcal{O}(\max(m, n))$ | $\mathcal{O}(\max(m, n))$ |
+| 54 | [Number of Islands](11-graphs/number-of-islands/) | Graphs | LeetCode 200 / NeetCode 150 | `Medium` | [solution.py](11-graphs/number-of-islands/solution.py) | $\mathcal{O}(m \cdot n)$ | $\mathcal{O}(m \cdot n)$ |
+| 55 | [Rotting Oranges](11-graphs/rotting-oranges/) | Graphs | LeetCode 994 / NeetCode 150 | `Medium` | [solution.py](11-graphs/rotting-oranges/solution.py) | $\mathcal{O}(m \cdot n)$ | $\mathcal{O}(m \cdot n)$ |
+| 56 | [Course Schedule](11-graphs/course-schedule/) | Graphs | LeetCode 207 / NeetCode 150 | `Medium` | [solution.py](11-graphs/course-schedule/solution.py) | $\mathcal{O}(V + E)$ | $\mathcal{O}(V + E)$ |
+| 57 | [House Robber](13-1-d-dynamic-programming/house-robber/) | 1-D Dynamic Programming | LeetCode 198 / NeetCode 150 | `Medium` | [solution.py](13-1-d-dynamic-programming/house-robber/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 58 | [Coin Change](13-1-d-dynamic-programming/coin-change/) | 1-D Dynamic Programming | LeetCode 322 / NeetCode 150 | `Medium` | [solution.py](13-1-d-dynamic-programming/coin-change/solution.py) | $\mathcal{O}(\text{amount} \cdot n)$ | $\mathcal{O}(\text{amount})$ |
+| 59 | [House Robber II](13-1-d-dynamic-programming/house-robber-ii/) | 1-D Dynamic Programming | LeetCode 213 / NeetCode 150 | `Medium` | [solution.py](13-1-d-dynamic-programming/house-robber-ii/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 60 | [Find Minimum in Rotated Sorted Array](05-binary-search/find-minimum-in-rotated-sorted-array/) | Binary Search | LeetCode 153 / NeetCode 150 | `Medium` | [solution.py](05-binary-search/find-minimum-in-rotated-sorted-array/solution.py) | $\mathcal{O}(\log n)$ | $\mathcal{O}(1)$ |
+| 61 | [Longest Repeating Character Replacement](03-sliding-window/longest-repeating-character-replacement/) | Sliding Window | LeetCode 424 / NeetCode 150 | `Medium` | [solution.py](03-sliding-window/longest-repeating-character-replacement/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 
 ---
 
