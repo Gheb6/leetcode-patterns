@@ -14,15 +14,15 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 02 | **Two Pointers** | 5 | 🟡 In Progress |
 | 03 | **Sliding Window** | 5 | 🟡 In Progress |
 | 04 | **Stack** | 6 | 🟡 In Progress |
-| 05 | **Binary Search** | 5 | 🟡 In Progress |
+| 05 | **Binary Search** | 7 | 🟡 In Progress |
 | 06 | **Linked List** | 8 | 🟡 In Progress |
-| 07 | **Trees** | 2 | 🟡 In Progress |
+| 07 | **Trees** | 5 | 🟡 In Progress |
 | 08 | **Tries** | 0 | ⚪ Backlog |
 | 09 | **Heap / Priority Queue** | 5 | 🟡 In Progress |
 | 10 | **Backtracking** | 1 | 🟡 In Progress |
 | 11 | **Graphs** | 5 | 🟡 In Progress |
 | 12 | **Advanced Graphs** | 1 | 🟡 In Progress |
-| 13 | **1-D Dynamic Programming** | 4 | 🟡 In Progress |
+| 13 | **1-D Dynamic Programming** | 6 | 🟡 In Progress |
 | 14 | **2-D Dynamic Programming** | 1 | 🟡 In Progress |
 | 15 | **Greedy** | 0 | ⚪ Backlog |
 | 16 | **Intervals** | 3 | 🟡 In Progress |
@@ -96,6 +96,13 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 59 | [House Robber II](13-1-d-dynamic-programming/house-robber-ii/) | 1-D Dynamic Programming | LeetCode 213 / NeetCode 150 | `Medium` | [solution.py](13-1-d-dynamic-programming/house-robber-ii/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
 | 60 | [Find Minimum in Rotated Sorted Array](05-binary-search/find-minimum-in-rotated-sorted-array/) | Binary Search | LeetCode 153 / NeetCode 150 | `Medium` | [solution.py](05-binary-search/find-minimum-in-rotated-sorted-array/solution.py) | $\mathcal{O}(\log n)$ | $\mathcal{O}(1)$ |
 | 61 | [Longest Repeating Character Replacement](03-sliding-window/longest-repeating-character-replacement/) | Sliding Window | LeetCode 424 / NeetCode 150 | `Medium` | [solution.py](03-sliding-window/longest-repeating-character-replacement/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 62 | [Maximum Depth of Binary Tree](07-trees/maximum-depth-of-binary-tree/) | Trees | LeetCode 104 / NeetCode 150 | `Easy` | [solution.py](07-trees/maximum-depth-of-binary-tree/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(h)$ |
+| 63 | [Balanced Binary Tree](07-trees/balanced-binary-tree/) | Trees | LeetCode 110 / NeetCode 150 | `Easy` | [solution.py](07-trees/balanced-binary-tree/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(h)$ |
+| 64 | [Diameter of Binary Tree](07-trees/diameter-of-binary-tree/) | Trees | LeetCode 543 / NeetCode 150 | `Easy` | [solution.py](07-trees/diameter-of-binary-tree/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(h)$ |
+| 65 | [Search in Rotated Sorted Array](05-binary-search/search-in-rotated-sorted-array/) | Binary Search | LeetCode 33 / NeetCode 150 | `Medium` | [solution.py](05-binary-search/search-in-rotated-sorted-array/solution.py) | $\mathcal{O}(\log n)$ | $\mathcal{O}(1)$ |
+| 66 | [Median of Two Sorted Arrays](05-binary-search/median-of-two-sorted-arrays/) | Binary Search | LeetCode 4 / NeetCode 150 | `Hard` | [solution.py](05-binary-search/median-of-two-sorted-arrays/solution.py) | $\mathcal{O}(\log(\min(n, m)))$ | $\mathcal{O}(1)$ |
+| 67 | [Climbing Stairs](13-1-d-dynamic-programming/climbing-stairs/) | 1-D Dynamic Programming | LeetCode 70 / NeetCode 150 | `Easy` | [solution.py](13-1-d-dynamic-programming/climbing-stairs/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 68 | [Min Cost Climbing Stairs](13-1-d-dynamic-programming/min-cost-climbing-stairs/) | 1-D Dynamic Programming | LeetCode 746 / NeetCode 150 | `Easy` | [solution.py](13-1-d-dynamic-programming/min-cost-climbing-stairs/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 
 ---
 
