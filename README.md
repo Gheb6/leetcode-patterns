@@ -15,8 +15,8 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 03 | **Sliding Window** | 5 | 🟡 In Progress |
 | 04 | **Stack** | 6 | 🟡 In Progress |
 | 05 | **Binary Search** | 7 | 🟡 In Progress |
-| 06 | **Linked List** | 8 | 🟡 In Progress |
-| 07 | **Trees** | 5 | 🟡 In Progress |
+| 06 | **Linked List** | 9 | 🟡 In Progress |
+| 07 | **Trees** | 9 | 🟡 In Progress |
 | 08 | **Tries** | 0 | ⚪ Backlog |
 | 09 | **Heap / Priority Queue** | 5 | 🟡 In Progress |
 | 10 | **Backtracking** | 1 | 🟡 In Progress |
@@ -103,6 +103,11 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 66 | [Median of Two Sorted Arrays](05-binary-search/median-of-two-sorted-arrays/) | Binary Search | LeetCode 4 / NeetCode 150 | `Hard` | [solution.py](05-binary-search/median-of-two-sorted-arrays/solution.py) | $\mathcal{O}(\log(\min(n, m)))$ | $\mathcal{O}(1)$ |
 | 67 | [Climbing Stairs](13-1-d-dynamic-programming/climbing-stairs/) | 1-D Dynamic Programming | LeetCode 70 / NeetCode 150 | `Easy` | [solution.py](13-1-d-dynamic-programming/climbing-stairs/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
 | 68 | [Min Cost Climbing Stairs](13-1-d-dynamic-programming/min-cost-climbing-stairs/) | 1-D Dynamic Programming | LeetCode 746 / NeetCode 150 | `Easy` | [solution.py](13-1-d-dynamic-programming/min-cost-climbing-stairs/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 69 | [Find the Duplicate Number](06-linked-list/find-the-duplicate-number/) | Linked List | LeetCode 287 / NeetCode 150 | `Medium` | [solution.py](06-linked-list/find-the-duplicate-number/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(1)$ |
+| 70 | [Same Binary Tree](07-trees/same-binary-tree/) | Trees | LeetCode 100 / NeetCode 150 | `Easy` | [solution.py](07-trees/same-binary-tree/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(h)$ |
+| 71 | [Subtree of Another Tree](07-trees/subtree-of-another-tree/) | Trees | LeetCode 572 / NeetCode 150 | `Easy` | [solution.py](07-trees/subtree-of-another-tree/solution.py) | $\mathcal{O}(m \cdot n)$ | $\mathcal{O}(h)$ |
+| 72 | [Lowest Common Ancestor of a Binary Search Tree](07-trees/lowest-common-ancestor-of-a-binary-search-tree/) | Trees | LeetCode 235 / NeetCode 150 | `Medium` | [solution.py](07-trees/lowest-common-ancestor-of-a-binary-search-tree/solution.py) | $\mathcal{O}(h)$ | $\mathcal{O}(1)$ |
+| 73 | [Binary Tree Level Order Traversal](07-trees/binary-tree-level-order-traversal/) | Trees | LeetCode 102 / NeetCode 150 | `Medium` | [solution.py](07-trees/binary-tree-level-order-traversal/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
 
 ---
 
