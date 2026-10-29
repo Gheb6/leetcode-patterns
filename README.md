@@ -12,14 +12,14 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 |:---:|:---|:---:|:---:|
 | 01 | **Arrays & Hashing** | 9 | 🟡 In Progress |
 | 02 | **Two Pointers** | 5 | 🟡 In Progress |
-| 03 | **Sliding Window** | 5 | 🟡 In Progress |
+| 03 | **Sliding Window** | 6 | 🟡 In Progress |
 | 04 | **Stack** | 6 | 🟡 In Progress |
 | 05 | **Binary Search** | 7 | 🟡 In Progress |
 | 06 | **Linked List** | 9 | 🟡 In Progress |
-| 07 | **Trees** | 9 | 🟡 In Progress |
-| 08 | **Tries** | 0 | ⚪ Backlog |
+| 07 | **Trees** | 12 | 🟡 In Progress |
+| 08 | **Tries** | 1 | 🟡 In Progress |
 | 09 | **Heap / Priority Queue** | 5 | 🟡 In Progress |
-| 10 | **Backtracking** | 1 | 🟡 In Progress |
+| 10 | **Backtracking** | 4 | 🟡 In Progress |
 | 11 | **Graphs** | 5 | 🟡 In Progress |
 | 12 | **Advanced Graphs** | 1 | 🟡 In Progress |
 | 13 | **1-D Dynamic Programming** | 6 | 🟡 In Progress |
@@ -108,6 +108,14 @@ Solutions are curated manually with clean code, type hints, edge case analysis, 
 | 71 | [Subtree of Another Tree](07-trees/subtree-of-another-tree/) | Trees | LeetCode 572 / NeetCode 150 | `Easy` | [solution.py](07-trees/subtree-of-another-tree/solution.py) | $\mathcal{O}(m \cdot n)$ | $\mathcal{O}(h)$ |
 | 72 | [Lowest Common Ancestor of a Binary Search Tree](07-trees/lowest-common-ancestor-of-a-binary-search-tree/) | Trees | LeetCode 235 / NeetCode 150 | `Medium` | [solution.py](07-trees/lowest-common-ancestor-of-a-binary-search-tree/solution.py) | $\mathcal{O}(h)$ | $\mathcal{O}(1)$ |
 | 73 | [Binary Tree Level Order Traversal](07-trees/binary-tree-level-order-traversal/) | Trees | LeetCode 102 / NeetCode 150 | `Medium` | [solution.py](07-trees/binary-tree-level-order-traversal/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 74 | [Implement Trie (Prefix Tree)](08-tries/implement-trie-prefix-tree/) | Tries | LeetCode 208 / NeetCode 150 | `Medium` | [solution.py](08-tries/implement-trie-prefix-tree/solution.py) | $\mathcal{O}(L)$ | $\mathcal{O}(N \cdot L)$ |
+| 75 | [Subsets](10-backtracking/subsets/) | Backtracking | LeetCode 78 / NeetCode 150 | `Medium` | [solution.py](10-backtracking/subsets/solution.py) | $\mathcal{O}(n \cdot 2^n)$ | $\mathcal{O}(n)$ |
+| 76 | [Combination Sum](10-backtracking/combination-sum/) | Backtracking | LeetCode 39 / NeetCode 150 | `Medium` | [solution.py](10-backtracking/combination-sum/solution.py) | $\mathcal{O}(2^{T/M})$ | $\mathcal{O}(T/M)$ |
+| 77 | [Combination Sum II](10-backtracking/combination-sum-ii/) | Backtracking | LeetCode 40 / NeetCode 150 | `Medium` | [solution.py](10-backtracking/combination-sum-ii/solution.py) | $\mathcal{O}(2^n)$ | $\mathcal{O}(n)$ |
+| 78 | [Kth Smallest Element in a BST](07-trees/kth-smallest-element-in-a-bst/) | Trees | LeetCode 230 / NeetCode 150 | `Medium` | [solution.py](07-trees/kth-smallest-element-in-a-bst/solution.py) | $\mathcal{O}(h + k)$ | $\mathcal{O}(h)$ |
+| 79 | [Validate Binary Search Tree](07-trees/validate-binary-search-tree/) | Trees | LeetCode 98 / NeetCode 150 | `Medium` | [solution.py](07-trees/validate-binary-search-tree/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(h)$ |
+| 80 | [Binary Tree Right Side View](07-trees/binary-tree-right-side-view/) | Trees | LeetCode 199 / NeetCode 150 | `Medium` | [solution.py](07-trees/binary-tree-right-side-view/solution.py) | $\mathcal{O}(n)$ | $\mathcal{O}(n)$ |
+| 81 | [Permutation in String](03-sliding-window/permutation-in-string/) | Sliding Window | LeetCode 567 / NeetCode 150 | `Medium` | [solution.py](03-sliding-window/permutation-in-string/solution.py) | $\mathcal{O}(|s_2|)$ | $\mathcal{O}(1)$ |
 
 ---
 
